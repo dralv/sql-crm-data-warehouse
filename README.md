@@ -1,2 +1,3 @@
 # sql-crm-data-warehouse
-![DataFlow](image.png)
+
+![DataFlow](image-1.png)
